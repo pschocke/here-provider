@@ -7,8 +7,8 @@
          bootstrap="vendor/autoload.php"
 >
     <php>
-		<server name="HERE_API_KEY" value="" />
-        <server name="USE_CACHED_RESPONSES" value="false" />
+		<server name="HERE_API_KEY" value="YOUR_API_KEY" />
+        <server name="USE_CACHED_RESPONSES" value="true" />
     </php>
 
     <testsuites>

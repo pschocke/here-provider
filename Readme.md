@@ -7,6 +7,9 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/geocoder-php/here-provider.svg?style=flat-square)](https://scrutinizer-ci.com/g/geocoder-php/here-provider)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
+
+#### This Repository aims to use the new geocoder API HERE provides. It is a fork of the [original package](https://github.com/geocoder-php/here-provider). DONT USE THIS PACKAGE.
+
 This is the Here provider from the PHP Geocoder. This is a **READ ONLY** repository. See the
 [main repo](https://github.com/geocoder-php/Geocoder) for information and documentation. 
 
